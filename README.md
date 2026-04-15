@@ -36,7 +36,7 @@ The chatbot interacts with users through predefined responses to simple inputs s
 🚀 How to Run
 1. Clone this repository:
    `bash
-   git clone https://github.com/YourUsername/CodeAlpha_Chatbot.git
+   git clone https://github.com/teja-sri21/CodeAlpha-chatbot.git
    `
 2. Navigate into the project folder:
    `bash
